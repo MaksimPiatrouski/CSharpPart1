@@ -1,0 +1,6 @@
+c:\workspace\SortArrayByLength\SortArrayByLength\bin\Debug\SortArrayByLength.exe.config
+c:\workspace\SortArrayByLength\SortArrayByLength\bin\Debug\SortArrayByLength.exe
+c:\workspace\SortArrayByLength\SortArrayByLength\bin\Debug\SortArrayByLength.pdb
+c:\workspace\SortArrayByLength\SortArrayByLength\obj\Debug\SortArrayByLength.csprojResolveAssemblyReference.cache
+c:\workspace\SortArrayByLength\SortArrayByLength\obj\Debug\SortArrayByLength.exe
+c:\workspace\SortArrayByLength\SortArrayByLength\obj\Debug\SortArrayByLength.pdb
